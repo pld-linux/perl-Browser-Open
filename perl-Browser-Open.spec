@@ -4,7 +4,6 @@
 #
 %define		pdir	Browser
 %define		pnam	Open
-%include	/usr/lib/rpm/macros.perl
 Summary:	Browser::Open - open a browser in a given URL
 Summary(pl.UTF-8):	Browser::Open - otwieranie przeglądarki z podanym URL-em
 Name:		perl-Browser-Open
